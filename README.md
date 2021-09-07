@@ -1,0 +1,3 @@
+- 👋 Hi, I’m NathanielJay
+- 👀 I’m interested in 3D printing and Game Development
+- 🌱 I’m currently learning C# and Blender
